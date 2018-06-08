@@ -9,6 +9,6 @@
   <body>
     
     <canvas onclick="swing(event)" id="myCanvas" width="600"  height="600" style="border:1px solid #000000;"> </canvas>
-    <script src="index.js"></script>
+    <script src="ElijahWilensky/final-project/chaoticindex.js"></script>
   </body>
 </html>
